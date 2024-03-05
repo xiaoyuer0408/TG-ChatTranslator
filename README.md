@@ -15,13 +15,13 @@ Python3.8及以上, aiohttp, Telethon
 - 支持多种源语言和目标语言
 - 用户可以通过特定指令在聊天群中启用或禁用翻译功能
 
-### 安装指南
-安装项目依赖：
+## 安装指南
 
-bash
-Copy code
+安装依赖，请运行以下命令：
 
+```bash
 pip install aiohttp telethon
+
 
 安装任何其他可能缺失的依赖。
 
