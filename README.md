@@ -1,7 +1,7 @@
 # ChatTranslator
 
 ## 🌌 引子
-> "实时翻译，沟通无障碍。"
+ "实时翻译，沟通无障碍。"
 
 ![ChatTranslator](https://img.shields.io/badge/ChatTranslator-TranslationTool-blue)
 
