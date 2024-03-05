@@ -18,6 +18,9 @@ Python3.8及以上, aiohttp, Telethon
 ### 安装指南
 安装项目依赖：
 
+bash
+Copy code
+
 pip install aiohttp telethon
 
 安装任何其他可能缺失的依赖。
