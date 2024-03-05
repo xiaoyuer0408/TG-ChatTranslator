@@ -21,7 +21,7 @@ Python3.8及以上, aiohttp, Telethon
 
 ```bash
 pip install aiohttp telethon
-
+```
 
 安装任何其他可能缺失的依赖。
 
