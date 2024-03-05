@@ -1,11 +1,11 @@
 # ChatTranslator
 
 ## 🌌 简介
- "实时翻译，沟通无障碍。"
+ "实时翻译，沟通无障碍"
 
 ![ChatTranslator](https://img.shields.io/badge/ChatTranslator-TranslationTool-blue)
 
-ChatTranslator是一个实时聊天翻译工具，旨在帮助用户跨语言进行通信。支持多种语言实时互译，适用于Telegram聊天群。
+ChatTranslator是一个实时聊天翻译工具，旨在帮助用户跨语言进行通信。支持多种语言实时互译，适用于Telegram聊天。
 
 ### 运行环境
 Python3.8及以上, aiohttp, Telethon
