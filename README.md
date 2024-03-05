@@ -25,7 +25,7 @@ pip install aiohttp telethon
 ### 使用方法
 1. 配置config.json文件，包括获取api_id和api_hash。
 2. 执行脚本并登录账号。
-3. 在聊天群里使用`.tt-off`和`.tt-on`指令来禁用或启用翻译功能。
+3. 在需要翻译的对话框中使用`.tt-off`和`.tt-on`指令来禁用或启用翻译功能，例：.tt-on,zh,zh|en|ru。
 
 ### 指令说明
 - `.tt-off`：禁用翻译功能
