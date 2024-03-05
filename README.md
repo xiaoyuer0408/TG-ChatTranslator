@@ -1,13 +1,13 @@
 # ChatTranslator
 
-## 🌌 引子
+## 🌌 简介
  "实时翻译，沟通无障碍。"
 
 ![ChatTranslator](https://img.shields.io/badge/ChatTranslator-TranslationTool-blue)
 
 ChatTranslator是一个实时聊天翻译工具，旨在帮助用户跨语言进行通信。支持多种语言实时互译，适用于Telegram聊天群。
 
-### 技术栈
+### 运行环境
 Python3.8及以上, aiohttp, Telethon
 
 ### 功能特性
@@ -37,74 +37,74 @@ pip install aiohttp telethon
 ### 注意事项
 该服务在国外服务器上运行效果更佳。
 
-### 支持的语言列表
-#### 源语言
-AR - Arabic
-BG - Bulgarian
-CS - Czech
-DA - Danish
-DE - German
-EL - Greek
-EN - English
-ES - Spanish
-ET - Estonian
-FI - Finnish
-FR - French
-HU - Hungarian
-ID - Indonesian
-IT - Italian
-JA - Japanese
-KO - Korean
-LT - Lithuanian
-LV - Latvian
-NB - Norwegian (Bokmål)
-NL - Dutch
-PL - Polish
-PT - Portuguese (all Portuguese varieties mixed)
-RO - Romanian
-RU - Russian
-SK - Slovak
-SL - Slovenian
-SV - Swedish
-TR - Turkish
-UK - Ukrainian
-ZH - Chinese
+## 支持的语言列表
+### 源语言
+- AR - Arabic
+- BG - Bulgarian
+- CS - Czech
+- DA - Danish
+- DE - German
+- EL - Greek
+- EN - English
+- ES - Spanish
+- ET - Estonian
+- FI - Finnish
+- FR - French
+- HU - Hungarian
+- ID - Indonesian
+- IT - Italian
+- JA - Japanese
+- KO - Korean
+- LT - Lithuanian
+- LV - Latvian
+- NB - Norwegian (Bokmål)
+- NL - Dutch
+- PL - Polish
+- PT - Portuguese (all Portuguese varieties mixed)
+- RO - Romanian
+- RU - Russian
+- SK - Slovak
+- SL - Slovenian
+- SV - Swedish
+- TR - Turkish
+- UK - Ukrainian
+- ZH - Chinese
 
-#### 目标语言
-AR - Arabic
-BG - Bulgarian
-CS - Czech
-DA - Danish
-DE - German
-EL - Greek
-EN - English (unspecified variant for backward compatibility; please select EN-GB or EN-US instead)
-EN-GB - English (British)
-EN-US - English (American)
-ES - Spanish
-ET - Estonian
-FI - Finnish
-FR - French
-HU - Hungarian
-ID - Indonesian
-IT - Italian
-JA - Japanese
-KO - Korean
-LT - Lithuanian
-LV - Latvian
-NB - Norwegian (Bokmål)
-NL - Dutch
-PL - Polish
-PT - Portuguese (unspecified variant for backward compatibility; please select PT-BR or PT-PT instead)
-PT-BR - Portuguese (Brazilian)
-PT-PT - Portuguese (all Portuguese varieties excluding Brazilian Portuguese)
-RO - Romanian
-RU - Russian
-SK - Slovak
-SL - Slovenian
-SV - Swedish
-TR - Turkish
-UK - Ukrainian
-ZH - Chinese (simplified)
+### 目标语言
+- AR - Arabic
+- BG - Bulgarian
+- CS - Czech
+- DA - Danish
+- DE - German
+- EL - Greek
+- EN - English (unspecified variant for backward compatibility; please select EN-GB or EN-US instead)
+- EN-GB - English (British)
+- EN-US - English (American)
+- ES - Spanish
+- ET - Estonian
+- FI - Finnish
+- FR - French
+- HU - Hungarian
+- ID - Indonesian
+- IT - Italian
+- JA - Japanese
+- KO - Korean
+- LT - Lithuanian
+- LV - Latvian
+- NB - Norwegian (Bokmål)
+- NL - Dutch
+- PL - Polish
+- PT - Portuguese (unspecified variant for backward compatibility; please select PT-BR or PT-PT instead)
+- PT-BR - Portuguese (Brazilian)
+- PT-PT - Portuguese (all Portuguese varieties excluding Brazilian Portuguese)
+- RO - Romanian
+- RU - Russian
+- SK - Slovak
+- SL - Slovenian
+- SV - Swedish
+- TR - Turkish
+- UK - Ukrainian
+- ZH - Chinese (simplified)
 
 
 _________________
