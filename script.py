@@ -45,7 +45,7 @@ async def translate_single(text, source_lang, target_lang, session):
     if source_lang == target_lang:
         return target_lang, text
 
-    url = "https://api.deeplx.org/translate"  # 请替换为实际的翻译API URL
+    url = "https://api.deeplx.org/hnAG7ZM_46Ld4zIlsvZCvKSxlcorDm7bHl7yHN0as1E/translate"  # 请替换为实际的翻译API URL
     payload = {
         "text": text,
         "source_lang": source_lang,
